@@ -1,0 +1,14 @@
+*.classpath
+target/classes/META-INF/maven/tech.chauncy.demo/spb-resource/pom.properties
+target/classes/META-INF/maven/tech.chauncy.demo/spb-resource/pom.xml
+*.class
+target/classes/prop.properties
+target/classes/test.txt
+*.MF
+target/classes/application.properties
+*.cmd
+mvnw
+*.prefs
+.project
+.mvn/wrapper/maven-wrapper.properties
+*.jar
